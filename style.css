@@ -173,7 +173,10 @@ body::before {
 .link-btn.spotify:hover { border-color: #1DB954; }
 .link-btn.apple:hover { border-color: #FC3C44; }
 .link-btn.amazon:hover { border-color: #00A8E1; }
+.link-btn.anchor:hover { border-color: #A549FF; }
+.link-btn.pocketcasts:hover { border-color: #F74132; }
 .link-btn.youtube:hover { border-color: #FF0000; }
+
 
 /* Section Separator */
 .divider {
