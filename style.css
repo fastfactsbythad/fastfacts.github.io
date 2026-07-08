@@ -38,7 +38,7 @@ body::before {
     opacity: 0.08;
     pointer-events: none;
     user-select: none;
-    color: #e2c952;
+    color: #E3C94E;
 }
 .track-1 { top: 12%; left: 10%; transform: rotate(15deg); }
 .track-2 { top: 65%; right: 8%; transform: rotate(-35deg); }
@@ -60,7 +60,7 @@ body::before {
     width: 250px;
     height: 250px;
     background-color: #0d2226;
-    border: 2px solid #e2c952; /* Your gold accent border */
+    border: 2px solid #E3C94E; /* Your gold accent border */
     border-radius: 50%;        /* Forces the container into a perfect circle */
     overflow: hidden;          /* Clips the square corners of the image inside it */
     margin: 0 auto 24px auto;
@@ -80,7 +80,7 @@ body::before {
 
 .avatar-icon {
     font-size: 2.2rem;
-    color: #e2c952;
+    color: #E3C94E;
 }
 
 .podcast-title {
@@ -141,7 +141,7 @@ body::before {
     justify-content: center;
     align-items: center;
     font-size: 1.35rem;
-    color: #e2c952; /* Base color uses Accent Gold */
+    color: #E3C94E; /* Base color uses Accent Gold */
     transition: transform 0.2s ease, color 0.2s ease;
 }
 
@@ -156,7 +156,7 @@ body::before {
 .link-btn:hover {
     transform: translateY(-2px);
     background-color: rgba(30, 94, 103, 0.55);
-    border-color: #e2c952; /* Changes to Accent Gold on Hover */
+    border-color: #E3C94E; /* Changes to Accent Gold on Hover */
     box-shadow: 0 8px 24px rgba(0, 0, 0, 0.25);
 }
 
