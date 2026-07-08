@@ -171,7 +171,7 @@ body::before {
 
 /* Branding indicator adjustments for specific services */
 .link-btn.spotify:hover { border-color: #1DB954; }
-.link-btn.apple:hover { border-color: #FC3C44; }
+.link-btn.apple:hover { border-color: #7224d8; }
 .link-btn.amazon:hover { border-color: #00A8E1; }
 .link-btn.anchor:hover { border-color: #A549FF; }
 .link-btn.pocketcasts:hover { border-color: #F74132; }
