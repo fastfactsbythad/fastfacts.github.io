@@ -93,7 +93,7 @@ body::before {
 }
 
 .podcast-title {
-  font-family: "Modak", system-ui;
+  font-family: "baberry", system-ui;
     font-size: 2.3rem;
     font-weight: 400;
     letter-spacing: -0.7px;
