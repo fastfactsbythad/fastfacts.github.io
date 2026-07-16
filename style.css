@@ -1,5 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Modak&display=swap');
 
+@font-face {
+  font-family: 'baberry';
+  src: url('baberry.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
 * {
     box-sizing: border-box;
     margin: 0;
@@ -96,7 +103,7 @@ body::before {
 }
 
 .podcast-subtitle {
-  font-family: "Modak", system-ui;
+  font-family: "baberry", system-ui;
     font-size: 1.8rem;
     font-weight: 400;
     letter-spacing: -0.7px;
