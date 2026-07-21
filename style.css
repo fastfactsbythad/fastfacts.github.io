@@ -223,6 +223,16 @@ body::before {
     font-weight: 700;
 }
 
+
+.footer-note-shop {
+    color: #3a7d87;
+    font-size: 0.4rem;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+
 /* Smooth scaling entry animation */
 @keyframes dynamicFade {
     from {
